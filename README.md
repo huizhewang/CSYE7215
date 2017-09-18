@@ -1,2 +1,3 @@
 # CSYE7215
 multithread
+By HUIZHE WANG 001614841
